@@ -4,6 +4,8 @@
 
 [<img src=https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png height="88">](https://play.google.com/store/apps/details?id=pro.upchain.ethwallet)
 
+- https://learnblockchain.cn/2019/04/11/wallet-dev-guide
+
 登链钱包是一款安全且功能完善的以太坊去中心化钱包（**完全开源**），界面高度模仿 imToken。
 
 使用登链开源钱包，再也不用担心私钥会不会被上传到服务器（不放心可以自己编译一个）。
